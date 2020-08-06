@@ -13,3 +13,5 @@ feature 的提交1
 
 master 的提交2
 master 的提交2
+feature2 的提交A
+feature2 的提交B
